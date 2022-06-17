@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>HelloGit</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>HelloGit</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e6ebe166db021300ccf67a8eaf9619d3</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>andywxm</sys_created_by>
+        <sys_created_on>2022-06-17 01:46:52</sys_created_on>
+        <sys_id>85fd9883db409110738c1d89139619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelloGit</sys_name>
+        <sys_package display_value="helloGit" source="x_jnl_hellogit">919d9083db409110738c1d89139619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helloGit">919d9083db409110738c1d89139619f0</sys_scope>
+        <sys_update_name>sys_wizard_answer_85fd9883db409110738c1d89139619b7</sys_update_name>
+        <sys_updated_by>andywxm</sys_updated_by>
+        <sys_updated_on>2022-06-17 01:46:52</sys_updated_on>
+        <table/>
+        <target_url>x_jnl_hellogit_hellogit.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

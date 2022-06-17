@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="HelloGit" language="en" table="x_jnl_hellogit_hellogit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>HelloGit</label>
+            <language>en</language>
+            <name>x_jnl_hellogit_hellogit</name>
+            <plural>HelloGits</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>andywxm</sys_created_by>
+            <sys_created_on>2022-06-17 01:46:52</sys_created_on>
+            <sys_id>89fd9883db409110738c1d89139619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>HelloGit</sys_name>
+            <sys_package display_value="helloGit" source="x_jnl_hellogit">919d9083db409110738c1d89139619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="helloGit">919d9083db409110738c1d89139619f0</sys_scope>
+            <sys_update_name>sys_documentation_x_jnl_hellogit_hellogit__en</sys_update_name>
+            <sys_updated_by>andywxm</sys_updated_by>
+            <sys_updated_on>2022-06-17 01:46:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
