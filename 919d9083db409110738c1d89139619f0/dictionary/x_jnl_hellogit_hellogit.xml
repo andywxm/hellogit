@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="HelloGit" max_length="40" name="x_jnl_hellogit_hellogit" type="collection"/>
+    <element extends="task" label="HelloGit" max_length="40" name="x_jnl_hellogit_hellogit" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="HelloGit" max_length="40" name="u_string_1" type="string"/>
+    </element>
 </database>
