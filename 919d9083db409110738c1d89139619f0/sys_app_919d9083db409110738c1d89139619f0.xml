@@ -29,15 +29,15 @@
         <sys_created_by>andywxm</sys_created_by>
         <sys_created_on>2022-06-17 01:45:14</sys_created_on>
         <sys_id>919d9083db409110738c1d89139619f0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>andywxm</sys_updated_by>
-        <sys_updated_on>2022-06-17 02:02:19</sys_updated_on>
+        <sys_updated_on>2022-06-17 02:06:47</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.1.0</version>
     </sys_app>
 </record_update>
